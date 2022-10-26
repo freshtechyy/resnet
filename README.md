@@ -14,4 +14,4 @@ $ python3 resnet.py
 ```
 
 ## References
-* K. He, et. al, "Deep Residual Learning for Image Recognition", CVPR, 2016.# resnet
+* K. He, et. al, "Deep Residual Learning for Image Recognition", CVPR, 2016.
